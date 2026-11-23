@@ -1,5 +1,5 @@
 const CONFIG = {
-  scriptUrl: "", // pegar aquí la URL /exec del Apps Script,
+  scriptUrl: "https://script.google.com/macros/s/AKfycbz83w8uFB8RyDZ91YAN6o4BXxZb6PoycPP-BYt_GRtstipgSI1IvtLiSZ3S3Rn2c9hc/exec",
   testName: "SAT Reading and Writing - Simulacro 3 (Practice Test 11)",
   storageKey: "sat-rw-practice-test-11",
   questionsPerModule: 27,
