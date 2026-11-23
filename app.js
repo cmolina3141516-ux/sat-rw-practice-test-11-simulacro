@@ -1,6 +1,6 @@
 const CONFIG = {
   scriptUrl: "", // pegar aquí la URL /exec del Apps Script,
-  testName: "SAT Reading and Writing Practice Test 11 (Simulacro)",
+  testName: "SAT Reading and Writing - Simulacro 3 (Practice Test 11)",
   storageKey: "sat-rw-practice-test-11",
   questionsPerModule: 27,
   moduleSeconds: 32 * 60,

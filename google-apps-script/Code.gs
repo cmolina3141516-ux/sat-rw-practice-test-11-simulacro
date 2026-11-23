@@ -1,6 +1,6 @@
 const SPREADSHEET_ID = '1m_tK4B6kZuzNbcST1wj7vHpGBvioR0a8yCaYo9lcrdE';
 const SHEET_NAME = 'Responses';
-const TEST_NAME = 'SAT Reading and Writing Practice Test 11 (Simulacro)';
+const TEST_NAME = 'SAT Reading and Writing - Simulacro 3 (Practice Test 11)';
 
 const ANSWER_KEY = {
   module1: [
